@@ -1,14 +1,15 @@
 //number
 
-let x = prompt('number value1');
-let y = prompt('number value2');
+let a = prompt('number1');
+let b = prompt('number2');
 
-console.log(x + y);
-console.log(x - y);
-console.log(x * y);
-console.log(x / y);
-console.log(x+y+y);
-console.log((x/y)+x);
+
+console.log(a * 1 + b *1);
+console.log(a - b);
+
+console.log(a * b);
+console.log(a / b);
+
 
 //string
 
